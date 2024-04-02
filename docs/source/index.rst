@@ -12,5 +12,6 @@ Contents
 
 .. toctree::
 
-   examples
+   
    tutorial
+   examples
