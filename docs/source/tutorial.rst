@@ -3,7 +3,7 @@ Tutorial
 
 .. _installation:
 
-Installation
+How to use readthedocs
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Helpful Videos
 ----------------
 
 To retrieve a list of random ingredients,
