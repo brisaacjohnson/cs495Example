@@ -1,17 +1,10 @@
 Welcome to CS 495 Example documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
+Below, you will find links to help you create your project documentation and other useful information.
 .. note::
 
-   This project is under active development.
+   This is only an example of what it should look like, and I will be updating this to ensure you all have some concrete to follow.
 
 Contents
 --------
